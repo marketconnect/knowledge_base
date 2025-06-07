@@ -1,6 +1,9 @@
 from __future__ import annotations
 
-from typing import Iterable, List
+
+from typing import List
+
+
 from telethon import TelegramClient
 
 
